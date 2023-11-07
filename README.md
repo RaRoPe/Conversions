@@ -15,7 +15,9 @@ Usage: python convertions.py -i <input_file> -o <output_folder> -f <image_format
 ```
 
 -------Requisites-------
+
 Poppler and Soffice (LibreOffice runnable)
+
 Windows Users:
 - Poppler (It can be found at https://github.com/oschwartz10612/poppler-windows/releases/)
   To use it, you must add the poppler bin folder to your PATH variable, on environment variables of system.
